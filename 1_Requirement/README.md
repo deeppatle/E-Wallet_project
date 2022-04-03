@@ -27,15 +27,12 @@ The customer account includes customer contact, profile information, account num
 
 ## Who:
 
-**Everyone can use the bank management system who want to have benifit of banking.**
+**Everyone can use the E-Wallet who want to have benifit of banking.**
 
 ## What:
 
-**Bank management sysem is mainly concerned to Cover the major Banking activities in sigle application.**
+**E-Wallet is mainly concerned to Cover the major Banking activities in sigle application.**
 
-## When:
-
-**TBD**
 
 ## Where:
 
