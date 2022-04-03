@@ -1,6 +1,6 @@
 
 # Name of the project
-PROJECT_NAME = Customer_Virtual_Wallet
+PROJECT_NAME = E-Wallet
 
 # Output directory
 BUILD = build
