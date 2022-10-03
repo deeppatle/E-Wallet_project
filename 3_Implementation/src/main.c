@@ -57,7 +57,7 @@ void main()
                 main();
                 break;
             case '6':
-                printf("<<<----------Records Saved Successfully<<>>Thanks For Using:):)--------->>>\n\t<<<<<------PROJECT BY VAMSI------->>>>>");
+                printf("<<<----------Records Saved Successfully<<>>Thanks For Using:):)--------->>>\n\t<<<<<------PROJECT BY DEEP------->>>>>");
                 exit(0);
                 break;
         }
